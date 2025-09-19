@@ -39,6 +39,6 @@ Acesse meu site pessoal para conhecer meus projetos e saber mais sobre meu traba
 <div align="center">
   <a href="https://github.com/leticia-pascale">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leticia-pascale&show_icons=true&theme=chartreuse-dark&rank_icon=github" alt="Estatísticas de Leticia Martins no GitHub" />
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=leticia-pascale&theme=chartreuse-dark&border_radius=5" alt="Sequência de Contribuições de Leticia Martins" />
+    <img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=leticia-pascale&theme=chartreuse-dark" alt="Activity Graph" />
   </a>
 </div>
